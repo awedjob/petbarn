@@ -1,0 +1,26 @@
+{
+  "action": "create",
+  "entry": {
+    "id": "20260804-chicken-00-bvxu",
+    "petName": "Chicken 00",
+    "creatorName": "AwedJob",
+    "type": "walking",
+    "animationCount": 3,
+    "clipNames": [
+      "Idle",
+      "Walk",
+      "Run"
+    ],
+    "parcel": "-129,-150",
+    "glbFile": "models/pet.glb",
+    "glbCid": "bafybeifjbmcue6ak5bkad74h46v7okl7zmo35z2xzmyllb5upmr6vj6zqu",
+    "thumbnailFile": "models/thumb.png",
+    "thumbnailCid": "bafkreiahy7uckob5h57mdx3dftg35p3irn3a4rpd4qdgh7blaikwhdvphm",
+    "sizeBytes": 326000,
+    "thumbnailSizeBytes": 137370,
+    "submittedAt": "2026-08-04T23:16:27.728Z",
+    "deployedAt": "2026-08-04T23:16:39.289Z",
+    "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+  },
+  "dryRun": true
+}
