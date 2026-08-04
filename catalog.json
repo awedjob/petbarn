@@ -2,9 +2,9 @@
   "version": 1,
   "world": "petbarn.dcl.eth",
   "contentBaseUrl": "http://localhost:8099/contents/",
-  "updatedAt": "2026-08-04T18:00:48.953Z",
+  "updatedAt": "2026-08-04T20:21:38.855Z",
   "nextParcel": {
-    "x": -143,
+    "x": -141,
     "y": -150
   },
   "pets": [
@@ -129,6 +129,54 @@
       "thumbnailSizeBytes": 92657,
       "submittedAt": "2026-08-04T17:32:06.690Z",
       "deployedAt": "2026-08-04T18:00:48.953Z",
+      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+    },
+    {
+      "id": "20260804-boar-977b",
+      "petName": "Boar",
+      "creatorName": "AwedJob",
+      "type": "walking",
+      "animationCount": 6,
+      "clipNames": [
+        "Idle",
+        "AFK",
+        "Run",
+        "Sit",
+        "Trot",
+        "Walk"
+      ],
+      "parcel": "-143,-150",
+      "glbFile": "models/pet.glb",
+      "glbCid": "bafybeibdu2tblgwzifizhw5wdnzjynibazmidoqrqba3athz6pjp6omm4q",
+      "thumbnailFile": "models/thumb.png",
+      "thumbnailCid": "bafkreifkdv4hzp4lhqokmnufhnip4utj563betzhg3eqabgczuzuokmovu",
+      "sizeBytes": 975732,
+      "thumbnailSizeBytes": 133877,
+      "submittedAt": "2026-08-04T18:51:21.320Z",
+      "deployedAt": "2026-08-04T20:21:38.667Z",
+      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+    },
+    {
+      "id": "20260804-elephant-n6bb",
+      "petName": "Elephant",
+      "creatorName": "AwedJob",
+      "type": "walking",
+      "animationCount": 4,
+      "clipNames": [
+        "Idle",
+        "AFK",
+        "Run",
+        "Walk"
+      ],
+      "parcel": "-142,-150",
+      "glbFile": "models/pet.glb",
+      "glbCid": "bafybeigdwmjz4kwxpv5xoideq5c3nuk2vfu6kcltywwjgwpuxi2vfjffhe",
+      "thumbnailFile": "models/thumb.png",
+      "thumbnailCid": "bafkreigh5hgn5y7hy5teyhvrwezbfcr7tys7bgeizh7n6fvr3wkt3wpqwy",
+      "sizeBytes": 1995508,
+      "thumbnailSizeBytes": 153618,
+      "submittedAt": "2026-08-04T20:19:41.095Z",
+      "deployedAt": "2026-08-04T20:21:38.855Z",
       "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
     }
   ]
