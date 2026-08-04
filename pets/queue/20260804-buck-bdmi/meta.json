@@ -1,0 +1,18 @@
+{
+  "id": "20260804-buck-bdmi",
+  "action": "update",
+  "targetId": "20260804-buck-ac4p",
+  "auth": {
+    "signature": "0x1eaaec229f211573ccf3509d70badd5fbb56ecfbc13b8858bfbe923f34b620fd1a3992ee4472b8cc5605aed901bb94ca05d51f57c6ec67a4ab75b1cdd0b3a02d1b",
+    "timestampMs": 1785886948968,
+    "glbSha256": "eb1bb1b686c1a9265d4afd4ee3bcee0aa24e707d02e2c621aa7b716c1e269671"
+  },
+  "petName": "Buck",
+  "creatorName": "AwedJob",
+  "type": "walking",
+  "sizeBytes": 509920,
+  "thumbnailSizeBytes": 81484,
+  "submittedAt": "2026-08-04T23:42:31.737Z",
+  "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64",
+  "clientVersion": "1.7.0"
+}
