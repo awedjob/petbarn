@@ -1,0 +1,29 @@
+{
+  "action": "create",
+  "entry": {
+    "id": "20260804-chamois-male-67p6",
+    "petName": "Chamois Male",
+    "creatorName": "AwedJob",
+    "type": "walking",
+    "animationCount": 6,
+    "clipNames": [
+      "Idle",
+      "Run",
+      "Sit",
+      "AFK",
+      "Trot",
+      "Walk"
+    ],
+    "parcel": "-131,-150",
+    "glbFile": "models/pet.glb",
+    "glbCid": "bafybeihfa5u4um2t6ib2dosgapawmmfcvkecxif7an6dgjki7sxyho2fpi",
+    "thumbnailFile": "models/thumb.png",
+    "thumbnailCid": "bafkreig3wki2va2yqwzq3oxxywl6v36343plfc2h5ko7wxgwzgomxv4whm",
+    "sizeBytes": 757208,
+    "thumbnailSizeBytes": 87354,
+    "submittedAt": "2026-08-04T23:14:45.243Z",
+    "deployedAt": "2026-08-04T23:15:23.032Z",
+    "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+  },
+  "dryRun": true
+}
