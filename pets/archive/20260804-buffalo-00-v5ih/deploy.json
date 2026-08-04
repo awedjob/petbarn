@@ -1,0 +1,27 @@
+{
+  "action": "create",
+  "entry": {
+    "id": "20260804-buffalo-00-v5ih",
+    "petName": "Buffalo 00",
+    "creatorName": "AwedJob",
+    "type": "walking",
+    "animationCount": 4,
+    "clipNames": [
+      "Idle",
+      "Run",
+      "AFK",
+      "Walk"
+    ],
+    "parcel": "-137,-150",
+    "glbFile": "models/pet.glb",
+    "glbCid": "bafybeidkt6pmh6pr2c26b55is5hscstlpwnkpq3lfuyux2u7tesgh7gr24",
+    "thumbnailFile": "models/thumb.png",
+    "thumbnailCid": "bafkreib3tmazz2k7r3onqgtd43qkfvojsbouqqbcevyzv2cy6snyzuhg5i",
+    "sizeBytes": 628708,
+    "thumbnailSizeBytes": 110481,
+    "submittedAt": "2026-08-04T21:56:42.299Z",
+    "deployedAt": "2026-08-04T21:57:16.469Z",
+    "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+  },
+  "dryRun": true
+}
