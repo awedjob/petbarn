@@ -1,0 +1,13 @@
+{
+  "id": "20260804-del-20260731-jaws-6x33-te6b",
+  "action": "delete",
+  "targetId": "20260731-jaws-6x33",
+  "auth": {
+    "signature": "0xbc84ff59434151dabbfa143bf849e58fd4ae8c7c3d3417f91f8f259f89805397265fc29ed86187dacaa5ec7a0551e3bf9592354743e653661dd065ab1a8eb3a11b",
+    "timestampMs": 1785862974331,
+    "glbSha256": "none"
+  },
+  "submittedAt": "2026-08-04T17:02:56.929Z",
+  "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64",
+  "clientVersion": "1.7.0"
+}
