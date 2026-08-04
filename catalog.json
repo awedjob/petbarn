@@ -2,9 +2,9 @@
   "version": 1,
   "world": "petbarn.dcl.eth",
   "contentBaseUrl": "http://localhost:8099/contents/",
-  "updatedAt": "2026-08-04T23:08:41.144Z",
+  "updatedAt": "2026-08-04T23:09:20.753Z",
   "nextParcel": {
-    "x": -133,
+    "x": -132,
     "y": -150
   },
   "pets": [
@@ -368,6 +368,28 @@
       "thumbnailSizeBytes": 59447,
       "submittedAt": "2026-08-04T23:08:13.704Z",
       "deployedAt": "2026-08-04T23:08:41.144Z",
+      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+    },
+    {
+      "id": "20260804-camel-01-dmno",
+      "petName": "Camel 01",
+      "creatorName": "AwedJob",
+      "type": "walking",
+      "animationCount": 3,
+      "clipNames": [
+        "Idle",
+        "Run",
+        "Walk"
+      ],
+      "parcel": "-133,-150",
+      "glbFile": "models/pet.glb",
+      "glbCid": "bafybeielj4deiaei55a5tq2qmtzdjk2mnxpbkmk4wial6symwevbxdlv7q",
+      "thumbnailFile": "models/thumb.png",
+      "thumbnailCid": "bafkreiagf4erylfxkregixjx3v4j7axups2io6zxps5yorre4cayl7b57y",
+      "sizeBytes": 826304,
+      "thumbnailSizeBytes": 93955,
+      "submittedAt": "2026-08-04T23:08:44.821Z",
+      "deployedAt": "2026-08-04T23:09:20.753Z",
       "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
     }
   ]
