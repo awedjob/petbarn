@@ -1,0 +1,29 @@
+{
+  "action": "create",
+  "entry": {
+    "id": "20260804-cow-yzb4",
+    "petName": "Cow",
+    "creatorName": "AwedJob",
+    "type": "walking",
+    "animationCount": 6,
+    "clipNames": [
+      "Idle",
+      "AFK",
+      "Run",
+      "Sit",
+      "Trot",
+      "Walk"
+    ],
+    "parcel": "-145,-150",
+    "glbFile": "models/pet.glb",
+    "glbCid": "bafybeigimgdb6fvuforbbjfljag65cbxbtkq57o6g2pwrt5xbbxr6i45gy",
+    "thumbnailFile": "models/thumb.png",
+    "thumbnailCid": "bafkreid2odkc6ax33g2awi77tslteo3h5gidjrlmvlwiulwam3ktbu6uiu",
+    "sizeBytes": 826648,
+    "thumbnailSizeBytes": 127492,
+    "submittedAt": "2026-08-04T17:58:31.741Z",
+    "deployedAt": "2026-08-04T18:00:48.871Z",
+    "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+  },
+  "dryRun": true
+}

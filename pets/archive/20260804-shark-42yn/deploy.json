@@ -1,0 +1,27 @@
+{
+  "action": "create",
+  "entry": {
+    "id": "20260804-shark-42yn",
+    "petName": "Shark",
+    "creatorName": "AwedJob",
+    "type": "walking",
+    "animationCount": 4,
+    "clipNames": [
+      "Bite",
+      "Fly",
+      "FlyFast",
+      "Hover"
+    ],
+    "parcel": "-144,-150",
+    "glbFile": "models/pet.glb",
+    "glbCid": "bafybeih5e4syk2ebor36sk446gdztilfeombrqdaa7wqibalwyqtbc67cy",
+    "thumbnailFile": "models/thumb.png",
+    "thumbnailCid": "bafkreick7eyq5dgj32fldnz3ixwooqhxbddmbih3ucfpk6ymvnrfcn3qly",
+    "sizeBytes": 324788,
+    "thumbnailSizeBytes": 92657,
+    "submittedAt": "2026-08-04T17:32:06.690Z",
+    "deployedAt": "2026-08-04T18:00:48.953Z",
+    "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+  },
+  "dryRun": true
+}
