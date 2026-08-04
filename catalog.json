@@ -2,9 +2,9 @@
   "version": 1,
   "world": "petbarn.dcl.eth",
   "contentBaseUrl": "http://localhost:8099/contents/",
-  "updatedAt": "2026-08-04T20:21:38.855Z",
+  "updatedAt": "2026-08-04T20:50:26.716Z",
   "nextParcel": {
-    "x": -141,
+    "x": -140,
     "y": -150
   },
   "pets": [
@@ -177,6 +177,30 @@
       "thumbnailSizeBytes": 153618,
       "submittedAt": "2026-08-04T20:19:41.095Z",
       "deployedAt": "2026-08-04T20:21:38.855Z",
+      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+    },
+    {
+      "id": "20260804-bighorn-sheep-jmu0",
+      "petName": "Bighorn Sheep",
+      "creatorName": "AwedJob",
+      "type": "walking",
+      "animationCount": 5,
+      "clipNames": [
+        "Idle",
+        "Run",
+        "Sit",
+        "Trot",
+        "Walk"
+      ],
+      "parcel": "-141,-150",
+      "glbFile": "models/pet.glb",
+      "glbCid": "bafybeidne6pejiixhxc46jpoztumpzqk2ilblogx2so4s7ahrsx3f6cjxq",
+      "thumbnailFile": "models/thumb.png",
+      "thumbnailCid": "bafkreigxn7muei7ozk2w2zciqpm722dtshlxlyht65xk23w523ffjja4e4",
+      "sizeBytes": 988472,
+      "thumbnailSizeBytes": 100797,
+      "submittedAt": "2026-08-04T20:49:56.698Z",
+      "deployedAt": "2026-08-04T20:50:26.716Z",
       "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
     }
   ]
