@@ -2,9 +2,9 @@
   "version": 1,
   "world": "petbarn.dcl.eth",
   "contentBaseUrl": "http://localhost:8099/contents/",
-  "updatedAt": "2026-08-04T22:27:22.415Z",
+  "updatedAt": "2026-08-04T23:08:00.787Z",
   "nextParcel": {
-    "x": -135,
+    "x": -134,
     "y": -150
   },
   "pets": [
@@ -319,6 +319,31 @@
       "thumbnailSizeBytes": 111573,
       "submittedAt": "2026-08-04T22:26:58.537Z",
       "deployedAt": "2026-08-04T22:27:22.415Z",
+      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+    },
+    {
+      "id": "20260804-calf-elvu",
+      "petName": "Calf",
+      "creatorName": "AwedJob",
+      "type": "walking",
+      "animationCount": 6,
+      "clipNames": [
+        "Idle",
+        "AFK",
+        "Run",
+        "Sit",
+        "Trot",
+        "Walk"
+      ],
+      "parcel": "-135,-150",
+      "glbFile": "models/pet.glb",
+      "glbCid": "bafybeidna73fnpt62hxlyulgqcueq4vvcygs7mhkfva4gaox2q6mansn3a",
+      "thumbnailFile": "models/thumb.png",
+      "thumbnailCid": "bafkreiawlkpwp2r72edprgwguttamztsi3kw5f253edojn6cet2lmfywwm",
+      "sizeBytes": 781552,
+      "thumbnailSizeBytes": 105769,
+      "submittedAt": "2026-08-04T23:07:35.660Z",
+      "deployedAt": "2026-08-04T23:08:00.787Z",
       "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
     }
   ]
