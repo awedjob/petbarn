@@ -2,9 +2,9 @@
   "version": 1,
   "world": "petbarn.dcl.eth",
   "contentBaseUrl": "http://localhost:8099/contents/",
-  "updatedAt": "2026-08-04T20:54:48.597Z",
+  "updatedAt": "2026-08-04T21:09:19.668Z",
   "nextParcel": {
-    "x": -139,
+    "x": -138,
     "y": -150
   },
   "pets": [
@@ -225,6 +225,29 @@
       "thumbnailSizeBytes": 113368,
       "submittedAt": "2026-08-04T20:54:24.589Z",
       "deployedAt": "2026-08-04T20:54:48.597Z",
+      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+    },
+    {
+      "id": "20260804-bloodhound-nbb1",
+      "petName": "Bloodhound",
+      "creatorName": "AwedJob",
+      "type": "walking",
+      "animationCount": 4,
+      "clipNames": [
+        "Idle",
+        "Run",
+        "Trot",
+        "Walk"
+      ],
+      "parcel": "-139,-150",
+      "glbFile": "models/pet.glb",
+      "glbCid": "bafybeiagzo5t4wjulix663gnbmozzgez7skinqdi6xlwnfqftbbmhtkzqi",
+      "thumbnailFile": "models/thumb.png",
+      "thumbnailCid": "bafkreihtq6cre6wxx53435mjpya2fe3nr2hhzju2jcl4yxmiu6vh3jpqh4",
+      "sizeBytes": 1089652,
+      "thumbnailSizeBytes": 90894,
+      "submittedAt": "2026-08-04T21:08:45.054Z",
+      "deployedAt": "2026-08-04T21:09:19.668Z",
       "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
     }
   ]
