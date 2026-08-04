@@ -1,0 +1,28 @@
+{
+  "action": "create",
+  "entry": {
+    "id": "20260804-buck-ac4p",
+    "petName": "Buck",
+    "creatorName": "AwedJob",
+    "type": "walking",
+    "animationCount": 5,
+    "clipNames": [
+      "Walk",
+      "Idle",
+      "AFK",
+      "Run",
+      "Trot"
+    ],
+    "parcel": "-138,-150",
+    "glbFile": "models/pet.glb",
+    "glbCid": "bafybeibnhqtcl7udtqajn4gvjfdmfcvdho4a6fyyrgjqu2xxah4rehttky",
+    "thumbnailFile": "models/thumb.png",
+    "thumbnailCid": "bafkreia3ozaputjq7zv2rwsctpvypv24kqohmhtgftqhgc3j2ha256vvbe",
+    "sizeBytes": 509920,
+    "thumbnailSizeBytes": 81484,
+    "submittedAt": "2026-08-04T21:26:59.061Z",
+    "deployedAt": "2026-08-04T21:27:35.840Z",
+    "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+  },
+  "dryRun": true
+}
