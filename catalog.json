@@ -2,7 +2,7 @@
   "version": 1,
   "world": "petbarn.dcl.eth",
   "contentBaseUrl": "http://localhost:8099/contents/",
-  "updatedAt": "2026-08-04T16:42:11.103Z",
+  "updatedAt": "2026-08-04T16:46:24.412Z",
   "nextParcel": {
     "x": -145,
     "y": -150
@@ -13,9 +13,10 @@
       "petName": "Cat",
       "creatorName": "AwedJob",
       "type": "walking",
-      "animationCount": 5,
+      "animationCount": 6,
       "clipNames": [
         "Idle",
+        "AFK",
         "Run",
         "Sit",
         "Trot",
@@ -23,14 +24,15 @@
       ],
       "parcel": "-148,-150",
       "glbFile": "models/pet.glb",
-      "glbCid": "bafybeig7wabbwq6m5i4tti2ashdmaldewaokcorwhllcu5ebbfmysh52se",
+      "glbCid": "bafybeibhxsdkvypf74vt5qngq5f73qn2cg2jqdsioflwbcorqnuhukbsx4",
       "thumbnailFile": "models/thumb.png",
       "thumbnailCid": "bafkreibkedmy5nuqvfkfsufv3tzsxiqkq55ywcoxgknxz7fay6yqvxlyt4",
-      "sizeBytes": 1419868,
+      "sizeBytes": 1934616,
       "thumbnailSizeBytes": 154269,
       "submittedAt": "2026-07-31T03:40:09.000Z",
-      "deployedAt": "2026-07-31T03:51:00.000Z",
-      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+      "deployedAt": "2026-08-04T16:46:24.412Z",
+      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64",
+      "updatedAt": "2026-08-04T16:46:24.412Z"
     },
     {
       "id": "20260731-parrot-m7st",
