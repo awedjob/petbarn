@@ -2,7 +2,7 @@
   "version": 1,
   "world": "petbarn.dcl.eth",
   "contentBaseUrl": "http://localhost:8099/contents/",
-  "updatedAt": "2026-08-04T23:17:49.139Z",
+  "updatedAt": "2026-08-04T23:43:09.671Z",
   "nextParcel": {
     "x": -127,
     "y": -150
@@ -271,8 +271,9 @@
       "sizeBytes": 509920,
       "thumbnailSizeBytes": 81484,
       "submittedAt": "2026-08-04T21:26:59.061Z",
-      "deployedAt": "2026-08-04T21:27:35.840Z",
-      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+      "deployedAt": "2026-08-04T23:43:09.671Z",
+      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64",
+      "updatedAt": "2026-08-04T23:43:09.671Z"
     },
     {
       "id": "20260804-buffalo-00-v5ih",
