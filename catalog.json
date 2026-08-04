@@ -2,9 +2,9 @@
   "version": 1,
   "world": "petbarn.dcl.eth",
   "contentBaseUrl": "http://localhost:8099/contents/",
-  "updatedAt": "2026-08-04T21:57:16.469Z",
+  "updatedAt": "2026-08-04T22:27:22.415Z",
   "nextParcel": {
-    "x": -136,
+    "x": -135,
     "y": -150
   },
   "pets": [
@@ -295,6 +295,30 @@
       "thumbnailSizeBytes": 110481,
       "submittedAt": "2026-08-04T21:56:42.299Z",
       "deployedAt": "2026-08-04T21:57:16.469Z",
+      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+    },
+    {
+      "id": "20260804-buffalo-01-o57j",
+      "petName": "Buffalo 01",
+      "creatorName": "AwedJob",
+      "type": "walking",
+      "animationCount": 5,
+      "clipNames": [
+        "Idle",
+        "Run",
+        "Sit",
+        "Trot",
+        "Walk"
+      ],
+      "parcel": "-136,-150",
+      "glbFile": "models/pet.glb",
+      "glbCid": "bafybeigca4hhfzejzidax3kdwoyuzdg5w547bgkoxhwunn3d5dcfu7kc2u",
+      "thumbnailFile": "models/thumb.png",
+      "thumbnailCid": "bafkreia35iejvaw2oupsgxyb5bgkefs6xbgidcy6xndai3rx5dhpsffo7y",
+      "sizeBytes": 1209224,
+      "thumbnailSizeBytes": 111573,
+      "submittedAt": "2026-08-04T22:26:58.537Z",
+      "deployedAt": "2026-08-04T22:27:22.415Z",
       "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
     }
   ]
