@@ -1,0 +1,29 @@
+{
+  "action": "create",
+  "entry": {
+    "id": "20260804-brown-bear-cxqx",
+    "petName": "Brown Bear",
+    "creatorName": "AwedJob",
+    "type": "walking",
+    "animationCount": 6,
+    "clipNames": [
+      "Idle",
+      "AFK",
+      "Run",
+      "Sit",
+      "Trot",
+      "Walk"
+    ],
+    "parcel": "-146,-150",
+    "glbFile": "models/pet.glb",
+    "glbCid": "bafybeidqgzqcmzzcfe2blci3p5zbc6w6vmc7flkgdajwpkb34sczutj2gq",
+    "thumbnailFile": "models/thumb.png",
+    "thumbnailCid": "bafkreiaj3dc3f45y3oen5jegsq3mqjv2wiajyq4y33srnrkdwhyyo263h4",
+    "sizeBytes": 576084,
+    "thumbnailSizeBytes": 152882,
+    "submittedAt": "2026-08-04T17:08:47.965Z",
+    "deployedAt": "2026-08-04T17:11:21.351Z",
+    "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+  },
+  "dryRun": true
+}
