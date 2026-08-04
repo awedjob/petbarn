@@ -2,9 +2,9 @@
   "version": 1,
   "world": "petbarn.dcl.eth",
   "contentBaseUrl": "http://localhost:8099/contents/",
-  "updatedAt": "2026-08-04T20:50:26.716Z",
+  "updatedAt": "2026-08-04T20:54:48.597Z",
   "nextParcel": {
-    "x": -140,
+    "x": -139,
     "y": -150
   },
   "pets": [
@@ -201,6 +201,30 @@
       "thumbnailSizeBytes": 100797,
       "submittedAt": "2026-08-04T20:49:56.698Z",
       "deployedAt": "2026-08-04T20:50:26.716Z",
+      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+    },
+    {
+      "id": "20260804-black-bear-gxer",
+      "petName": "Black Bear",
+      "creatorName": "AwedJob",
+      "type": "walking",
+      "animationCount": 5,
+      "clipNames": [
+        "Idle",
+        "Run",
+        "Sit",
+        "Trot",
+        "Walk"
+      ],
+      "parcel": "-140,-150",
+      "glbFile": "models/pet.glb",
+      "glbCid": "bafybeidkryjyajnpwcfqn4ueyfnaqo5tmxidj7avcg7isyf4a4kqo5fhzy",
+      "thumbnailFile": "models/thumb.png",
+      "thumbnailCid": "bafkreibqf72ajb74rrejra4kpctm7twxacxzdmuuyrogpan5ux2fez7hza",
+      "sizeBytes": 1539824,
+      "thumbnailSizeBytes": 113368,
+      "submittedAt": "2026-08-04T20:54:24.589Z",
+      "deployedAt": "2026-08-04T20:54:48.597Z",
       "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
     }
   ]
