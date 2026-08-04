@@ -2,9 +2,9 @@
   "version": 1,
   "world": "petbarn.dcl.eth",
   "contentBaseUrl": "http://localhost:8099/contents/",
-  "updatedAt": "2026-08-04T16:46:24.412Z",
+  "updatedAt": "2026-08-04T17:04:38.984Z",
   "nextParcel": {
-    "x": -145,
+    "x": -146,
     "y": -150
   },
   "pets": [
@@ -48,36 +48,15 @@
       ],
       "parcel": "-147,-150",
       "glbFile": "models/pet.glb",
-      "glbCid": "bafybeiguujynvnyqjpbfxhnax4hgkym57frmyvo6tbsfg7plhwxg4yybou",
+      "glbCid": "bafybeid4jamvqggzed6urtl4ijbuwslzfnilo7ht6pkvodzoxjktpcec2e",
       "thumbnailFile": "models/thumb.png",
       "thumbnailCid": "bafkreihygcjqqb5736gd3hl2ejiymwwaiowedw3bvkeyjh2luynv6vclgy",
-      "sizeBytes": 599880,
+      "sizeBytes": 599900,
       "thumbnailSizeBytes": 78384,
       "submittedAt": "2026-07-31T03:40:09.000Z",
-      "deployedAt": "2026-07-31T03:51:00.000Z",
-      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
-    },
-    {
-      "id": "20260731-jaws-6x33",
-      "petName": "Jaws",
-      "creatorName": "AwedJob",
-      "type": "flying",
-      "animationCount": 3,
-      "clipNames": [
-        "Bite",
-        "Fly",
-        "FlyFast"
-      ],
-      "parcel": "-146,-150",
-      "glbFile": "models/pet.glb",
-      "glbCid": "bafybeifzxhobdwisrhk4p4ctmpgolzl6hmrf5taxj2ttnjduwl77devhli",
-      "thumbnailFile": "models/thumb.png",
-      "thumbnailCid": "bafkreick7eyq5dgj32fldnz3ixwooqhxbddmbih3ucfpk6ymvnrfcn3qly",
-      "sizeBytes": 322640,
-      "thumbnailSizeBytes": 92657,
-      "submittedAt": "2026-07-31T03:40:09.000Z",
-      "deployedAt": "2026-07-31T03:51:00.000Z",
-      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+      "deployedAt": "2026-08-04T17:04:38.984Z",
+      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64",
+      "updatedAt": "2026-08-04T17:04:38.984Z"
     }
   ]
 }
