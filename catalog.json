@@ -2,9 +2,9 @@
   "version": 1,
   "world": "petbarn.dcl.eth",
   "contentBaseUrl": "http://localhost:8099/contents/",
-  "updatedAt": "2026-08-04T23:43:09.671Z",
+  "updatedAt": "2026-08-05T00:36:08.325Z",
   "nextParcel": {
-    "x": -127,
+    "x": -126,
     "y": -150
   },
   "pets": [
@@ -506,6 +506,28 @@
       "thumbnailSizeBytes": 119534,
       "submittedAt": "2026-08-04T23:17:19.078Z",
       "deployedAt": "2026-08-04T23:17:49.139Z",
+      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+    },
+    {
+      "id": "20260805-crab-gfz8",
+      "petName": "Crab",
+      "creatorName": "AwedJob",
+      "type": "walking",
+      "animationCount": 3,
+      "clipNames": [
+        "Idle",
+        "Walk",
+        "Run"
+      ],
+      "parcel": "-127,-150",
+      "glbFile": "models/pet.glb",
+      "glbCid": "bafybeidy3ruddmmuaafctrd72jvutv2wng2b5ehxekd6aergcfegp3zcmu",
+      "thumbnailFile": "models/thumb.png",
+      "thumbnailCid": "bafkreiabboucdtqjb2i3uajfud2kum4ixndtuvwc6sasmwzs5rtomx6gfy",
+      "sizeBytes": 413420,
+      "thumbnailSizeBytes": 80535,
+      "submittedAt": "2026-08-05T00:35:52.154Z",
+      "deployedAt": "2026-08-05T00:36:08.325Z",
       "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
     }
   ]
