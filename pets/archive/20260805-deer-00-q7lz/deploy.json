@@ -1,0 +1,28 @@
+{
+  "action": "create",
+  "entry": {
+    "id": "20260805-deer-00-q7lz",
+    "petName": "Deer 00",
+    "creatorName": "AwedJob",
+    "type": "walking",
+    "animationCount": 5,
+    "clipNames": [
+      "Idle",
+      "Run",
+      "AFK",
+      "Trot",
+      "Walk"
+    ],
+    "parcel": "-123,-150",
+    "glbFile": "models/pet.glb",
+    "glbCid": "bafybeieorcexvl7rpv7kiusqx64isubchnis2xkdu7saiargf2m6q4ecly",
+    "thumbnailFile": "models/thumb.png",
+    "thumbnailCid": "bafkreih7wt2fvborkwk3movgzr7veizpr2j3r2kfsqvhugc2ad5jkrctf4",
+    "sizeBytes": 1281720,
+    "thumbnailSizeBytes": 75791,
+    "submittedAt": "2026-08-05T00:41:03.649Z",
+    "deployedAt": "2026-08-05T00:41:20.182Z",
+    "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+  },
+  "dryRun": true
+}
