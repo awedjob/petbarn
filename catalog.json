@@ -2,9 +2,9 @@
   "version": 1,
   "world": "petbarn.dcl.eth",
   "contentBaseUrl": "http://localhost:8099/contents/",
-  "updatedAt": "2026-08-05T00:37:25.163Z",
+  "updatedAt": "2026-08-05T00:38:03.193Z",
   "nextParcel": {
-    "x": -124,
+    "x": -123,
     "y": -150
   },
   "pets": [
@@ -573,6 +573,27 @@
       "thumbnailSizeBytes": 67043,
       "submittedAt": "2026-08-05T00:37:04.765Z",
       "deployedAt": "2026-08-05T00:37:25.163Z",
+      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+    },
+    {
+      "id": "20260805-crow-yw2g",
+      "petName": "Crow",
+      "creatorName": "AwedJob",
+      "type": "walking",
+      "animationCount": 2,
+      "clipNames": [
+        "Hover",
+        "Fly"
+      ],
+      "parcel": "-124,-150",
+      "glbFile": "models/pet.glb",
+      "glbCid": "bafybeifqzt647d6gqbrh424w4qzo22lm7ugwwqcqzjmllipm5l7sochmlm",
+      "thumbnailFile": "models/thumb.png",
+      "thumbnailCid": "bafkreiebnoav6edfsqhfevaoaloxnp7ekgu2qwonyx2rwpigwaa22w4j3m",
+      "sizeBytes": 840024,
+      "thumbnailSizeBytes": 56795,
+      "submittedAt": "2026-08-05T00:37:31.402Z",
+      "deployedAt": "2026-08-05T00:38:03.193Z",
       "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
     }
   ]
