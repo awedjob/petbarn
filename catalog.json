@@ -2,9 +2,9 @@
   "version": 1,
   "world": "petbarn.dcl.eth",
   "contentBaseUrl": "http://localhost:8099/contents/",
-  "updatedAt": "2026-08-05T00:36:08.325Z",
+  "updatedAt": "2026-08-05T00:36:46.230Z",
   "nextParcel": {
-    "x": -126,
+    "x": -125,
     "y": -150
   },
   "pets": [
@@ -528,6 +528,28 @@
       "thumbnailSizeBytes": 80535,
       "submittedAt": "2026-08-05T00:35:52.154Z",
       "deployedAt": "2026-08-05T00:36:08.325Z",
+      "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
+    },
+    {
+      "id": "20260805-chicken-01-u5r4",
+      "petName": "Chicken 01",
+      "creatorName": "AwedJob",
+      "type": "walking",
+      "animationCount": 3,
+      "clipNames": [
+        "Idle",
+        "Run",
+        "Walk"
+      ],
+      "parcel": "-126,-150",
+      "glbFile": "models/pet.glb",
+      "glbCid": "bafybeiepratamy5zpygefp6nx55zqc6c6thugvfp6e5vujavezld5gx43y",
+      "thumbnailFile": "models/thumb.png",
+      "thumbnailCid": "bafkreihgcnwyqdazfpyefiwbxf7nz224nxnwgffemw5quos6fqyxnlwu2u",
+      "sizeBytes": 325292,
+      "thumbnailSizeBytes": 109833,
+      "submittedAt": "2026-08-05T00:36:18.319Z",
+      "deployedAt": "2026-08-05T00:36:46.230Z",
       "wallet": "0xe1eedbd1e08478707c794e7e8b1ee623f5fa6d64"
     }
   ]
